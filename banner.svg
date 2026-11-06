@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 250" width="1200" height="250" role="img" aria-label="thiscitze — security research">
+  <defs>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="0.45" stop-color="#818cf8"/>
+      <stop offset="1" stop-color="#e879f9"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#818cf8" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#e879f9" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <path d="M36 58 V36 H58" fill="none" stroke="#22d3ee" stroke-width="2" opacity="0.75"/>
+  <path d="M1164 202 V224 H1142" fill="none" stroke="#e879f9" stroke-width="2" opacity="0.75"/>
+
+  <text x="600" y="132" text-anchor="middle"
+        font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="88" font-weight="700" letter-spacing="12"
+        fill="url(#brand)">THISCITZE</text>
+
+  <rect x="330" y="168" width="540" height="2" fill="url(#rule)"/>
+
+  <text x="600" y="203" text-anchor="middle"
+        font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="14" letter-spacing="5" fill="#8b93a7">SECURITY RESEARCH · PoC + EXPLOIT DEVELOPMENT</text>
+</svg>

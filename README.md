@@ -1,11 +1,6 @@
-```
- _____    _   _    ___    ____      ____    ___    _____    _____   _____
-|_   _|  | | | |  |_ _|  / ___|    / ___|  |_ _|  |_   _|  |__  /  | ____|
-  | |    | |_| |   | |   \___ \   | |       | |     | |      / /   |  _|
-  | |    |  _  |   | |    ___) |  | |___    | |     | |     / /_   | |___|
-  | |    | | | |   | |   |____/    \____|   | |     | |    /____|  |_____|
-  |_|    |_| |_|  |___|                    |___|    |_|
-```
+<p align="center">
+  <img src="banner.svg" alt="thiscitze — security research" width="100%">
+</p>
 
 **Security research · PoC + exploit development**
 WordPress · Linux · kernel
